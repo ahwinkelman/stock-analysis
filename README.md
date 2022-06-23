@@ -6,6 +6,9 @@
 The purpose of the project was to refactor or clean up code for 2 years worth of data for 12 different stocks.  By cleaning up the code from the original workbook, we were able to run a larger analysis to display a more accurate performance of a companies stock performance by increase the sample size.  The main goal of this challenge was to increase the speed of the code by utilizing nexted 'For Loops'.
 
 ## Results
+#### 2017 Stock Performance
+![VBA_Challenge_2017_performance](https://user-images.githubusercontent.com/107078763/175383764-4c87d8f6-08c1-4660-821d-2d63648fa5cc.png)
+#### 2018 Stock Performance
 
 ### Analysis
 The analysis is well described with screenshots and code (4 pt).
