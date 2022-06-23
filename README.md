@@ -10,6 +10,7 @@ The purpose of the project was to refactor or clean up code for 2 years worth of
 ![VBA_Challenge_2017_performance](https://user-images.githubusercontent.com/107078763/175383764-4c87d8f6-08c1-4660-821d-2d63648fa5cc.png)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/107078763/175384078-247ef79b-35e3-41c9-bef5-ecb7baac5b1e.png)
 #### 2018 Stock Performance
+![VBA_Challenge_2018_performance](https://user-images.githubusercontent.com/107078763/175384269-2bd11ecd-e7ec-4415-9644-e98ea739c562.png)
 
 ### Analysis
 The analysis is well described with screenshots and code (4 pt).
